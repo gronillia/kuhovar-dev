@@ -15,16 +15,16 @@ jQuery('#menu-products').on('click', function () {
     jQuery('body').toggleClass('menuopen');
 });
 jQuery('#menu-item-20').click(function() {
-    window.location = "gdclassic.html";
+    window.location = "gdclassic_ua.html";
 });
 jQuery('#menu-item-15').click(function() {
-    window.location = "pure.html";
+    window.location = "pure_ua.html";
 });
 jQuery('#menu-item-16').click(function() {
-    window.location = "soups.html";
+    window.location = "soups_ua.html";
 });
 jQuery('#menu-item-18').click(function() {
-    window.location = "about.html";
+    window.location = "about_ua.html";
 });
 
 // Scroll to top hide/show
